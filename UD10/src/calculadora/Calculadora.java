@@ -8,7 +8,6 @@ public class Calculadora {
 		this.operando1 = 0;
 		this.operando2 = 0;
 		this.resultado = 0;
-		this.operacion = "";
 	}
 	
 	public void sumar() {
@@ -108,5 +107,4 @@ public class Calculadora {
 	private double operando1;
 	private double operando2;
 	private double resultado;
-	private String operacion;
 }
